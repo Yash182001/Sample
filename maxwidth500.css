@@ -1,0 +1,22 @@
+
+@media only screen and (max-width: 400px) {
+
+    body{
+        font-size: 14;
+        
+    }
+    .container-fluid .row [class^="col-"]
+    {
+        width: 100%;
+        max-width: 100%;
+        display: block;
+        text-align: center;
+  justify-content: center;
+  align-items: center;
+        
+    }
+    
+  
+}
+
+
